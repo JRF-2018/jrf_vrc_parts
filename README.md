@@ -12,6 +12,17 @@ VRChat 用の小さな Modular Avatar の部品集です。JRF が VRChat でワ
 
 ダウンロードは [Releases](https://github.com/JRF-2018/jrf_vrc_parts/releases) から(ログインは要りません)。部品ごとに unitypackage になっています。Releases はまとまりごとにタグを分けています。この 3 つは `myparts-v<版>`(最新は [myparts-v0.1.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/myparts-v0.1.0))です。
 
+### Booth で配っているものも
+
+Booth で無料配布している次のものも、ログインなしで落とせるよう Releases に置いています(中身は Booth と同じ zip。使い方は zip の中の README)。
+
+| 道具 | ひとことで | Releases | Booth |
+|---|---|---|---|
+| VRoidDefaultSet for VRChat | VRoid のデフォルトの表情・エモートのメニューを、どのアバターでも同じボタン「デフォルトセット」にまとめる | [vroiddefaultset-v0.3.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/vroiddefaultset-v0.3.0) | [items/9166762](https://j-rockford.booth.pm/items/9166762) |
+| VRoidSkirtDial | 座ったときの VRoid のスカートの「ポワン」とはみ出しを、メニューのダイヤルで直す | [vroidskirtdial-v0.1.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/vroidskirtdial-v0.1.0) | [items/9147262](https://j-rockford.booth.pm/items/9147262) |
+
+これらは使い方・ソースがこのリポジトリの外なので、下の「必要なもの」以降の説明は上の 3 つの部品のものです。
+
 ## 必要なもの
 
 - Unity 2022.3、VRChat SDK(Avatars)

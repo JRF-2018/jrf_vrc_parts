@@ -12,6 +12,17 @@ Small Modular Avatar parts for VRChat. JRF made them with Claude Code (Claude Op
 
 Download from [Releases](https://github.com/JRF-2018/jrf_vrc_parts/releases) (no login needed). Each part is its own unitypackage. Releases have a separate tag for each group; these three are `myparts-v<version>` (latest: [myparts-v0.1.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/myparts-v0.1.0)).
 
+### Also from Booth
+
+These tools, distributed free on Booth, are also in Releases so you can download them without logging in (the same zip as Booth; see the README inside for usage).
+
+| Tool | In short | Releases | Booth |
+|---|---|---|---|
+| VRoidDefaultSet for VRChat | Puts a VRoid avatar's default expression and emote menus into the same "Default Set" button on any avatar | [vroiddefaultset-v0.3.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/vroiddefaultset-v0.3.0) | [items/9166762](https://j-rockford.booth.pm/items/9166762) |
+| VRoidSkirtDial | Fixes a VRoid skirt puffing up or thighs poking out when sitting, with menu radials | [vroidskirtdial-v0.1.0](https://github.com/JRF-2018/jrf_vrc_parts/releases/tag/vroidskirtdial-v0.1.0) | [items/9147262](https://j-rockford.booth.pm/items/9147262) |
+
+Their usage and sources live outside this repository; the sections below ("Requirements" onward) are about the three parts above.
+
 ## Requirements
 
 - Unity 2022.3, VRChat SDK (Avatars)
